@@ -1,0 +1,45 @@
+_repo: The-Ambassadors_432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: "The Ambassadors is a 1903 novel by Henry James, originally published\
+  \ as a serial in the North American Review (NAR). This dark comedy, seen as one\
+  \ of the masterpieces of James's final period, follows the trip of protagonist Lewis\
+  \ Lambert Strether to Europe in pursuit of Chad Newsome, his widowed fiancée's supposedly\
+  \ wayward son; he is to bring the young man back to the family business, but he\
+  \ encounters unexpected complications. The third-person narrative is told exclusively\
+  \ from Strether's point of view.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '432'
+  wikidata: Q650571
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- GITenberg
+title: The Ambassadors
+url: http://www.gutenberg.org/ebooks/432
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_Ambassadeurs_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%81%D8%B1%D8%A7%D8%A1_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://ceb.wikipedia.org/wiki/The_Ambassadors
+- https://pt.wikipedia.org/wiki/The_Ambassadors
+- https://fa.wikipedia.org/wiki/%D8%B3%D9%81%D8%B1%D8%A7%DB%8C_%DA%A9%D8%A8%D8%A7%D8%B1
+- https://es.wikipedia.org/wiki/Los_embajadores_(novela)
+- https://en.wikipedia.org/wiki/The_Ambassadors
+- https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A6%BF_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E2%80%8C%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A1%E0%A6%B0%E0%A7%8D%E2%80%8C%E0%A6%B8
